@@ -1,0 +1,22 @@
+.start{
+	padding:50px 0px;
+}
+.start button{
+	width:100px;
+	background:transparent;
+	border:1px solid #fff;
+	color:#fff;
+	font-size:20px;
+	font-family:Microsoft YaHei;
+	padding: 5px;
+	 box-shadow:0 0 10px rgba(255, 255, 255, .5);  
+	 outline: none;
+}
+.logo{
+	text-align:center;
+	
+}
+.logo img{
+	width:50%;
+	height:50%;
+}

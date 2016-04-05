@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+.led {
+	margin-left:10%;
+	position: relative;
+	height:300px;
+}
+.led .dadeng{
+	padding-left: 10px;
+	
+}
+.led .logo{
+	position: absolute;
+	top:20%;
+	left:20%;
+	
+}
+.led li{
+	padding-left: 0px
+}
+.led li img{
+	width:80%;
+	height:80%;
+}
+.li7{
+	position: absolute;
+	top:40%;
+	left:20%;
+	background: transparent;
+}
+.li6{
+	position: absolute;
+	top:50%;
+	left:35%;
+}
+.li5{
+	position: absolute;
+	top:45%;
+	left:26%;
+}
+.li4{
+	position: absolute;
+	top:45%;
+	left:26%;
+}
+.li3{
+	position: absolute;
+	top:45%;
+	left:26%;
+}
+.buttons{
+	margin-top:80px;
+}
+.buttons button{
+	width:80px;
+	height:30px;
+	color:#eee;
+	border:1px solid #eee;
+	border-radius:10%;
+	background: transparent;
+	padding: 5px;
+	outline: none;
+	margin-top: 30px;
+	
+	
+}
