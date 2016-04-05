@@ -6,7 +6,7 @@
                 renderTo: $(document.body),
                 enable: true,
                 initPosition: 'max',
-                size: {barWidth: 200,sliderWidth: 5},
+                size: {barWidth: 300,sliderWidth: 50},
                 barCssName: 'defaultbar',
                 completedCssName: 'jquery-completed',
                 sliderCssName: 'jquery-jslider',
@@ -35,7 +35,7 @@
 							.css('width', ps.size.sliderWidth);
             
 			
-            var bw = sliderbar.width(), sw = slider.width();
+            var bw = sliderbar.width(), sw = slider.width()-22;
             
             ps.limited = {min: 0, max: bw - sw};
             
